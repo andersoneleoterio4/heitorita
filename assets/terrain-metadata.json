@@ -1,0 +1,19 @@
+{
+  "cols": 1025,
+  "rows": 997,
+  "widthMeters": 1036.5256125000305,
+  "depthMeters": 1008.3502485007048,
+  "minElevation": 605.0057373046875,
+  "maxElevation": 722.6873168945312,
+  "crs": "EPSG:31984",
+  "bounds": [
+    737735.4556222648,
+    9216498.090105219,
+    738771.9812347648,
+    9217506.44035372
+  ],
+  "verticalExaggeration": 1.0,
+  "validVertices": 306048,
+  "sourceDEM": "MDT.tif",
+  "sourceTexture": "ORTOMOSAICO.tif"
+}

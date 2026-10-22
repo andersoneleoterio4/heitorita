@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Galeria_01",
+    "longitude": -36.84375678640038,
+    "latitude": -7.079888062342073,
+    "easting": 738173.4295588422,
+    "northing": 9216867.196207814
+  },
+  {
+    "name": "Galeria_02",
+    "longitude": -36.84328509900209,
+    "latitude": -7.07959966490718,
+    "easting": 738225.703124716,
+    "northing": 9216898.857788438
+  },
+  {
+    "name": "Galeria_03",
+    "longitude": -36.84471993559708,
+    "latitude": -7.079821095197684,
+    "easting": 738067.0277665681,
+    "northing": 9216875.098160733
+  },
+  {
+    "name": "Sede_do_Empreendimento",
+    "longitude": -36.84449792892069,
+    "latitude": -7.081288416797038,
+    "easting": 738090.8082974844,
+    "northing": 9216712.664369492
+  }
+]
